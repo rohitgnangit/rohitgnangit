@@ -12,4 +12,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rohitgnangit&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 📊 GitHub Stats
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitgnangit&show_icons=true&theme=radical)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=rohitgnangit&theme=radical)
+
+### ⏳ Contributions Graph
+![Rohit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitgnangit&theme=github-compact)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
