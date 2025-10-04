@@ -15,9 +15,10 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:rohitmuppana44@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40px" alt="Email"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40px" alt="Email"/>
   </a>
 </p>
+
 
 ---
 
