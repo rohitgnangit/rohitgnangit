@@ -5,14 +5,22 @@
 
 </div>
 
+---
+
+## 🌐 Socials  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rohitsaimuppana/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:rohitmuppana44@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40px" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitsaimuppana/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitmuppana44@gmail.com)
-
----
 
 ## 💻 Tech Stack  
 
