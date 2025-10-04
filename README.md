@@ -1,5 +1,9 @@
-# Hi👋, I'm Rohit Sai
-### 👨‍💻 A Passionate Developer from India
+<div align="center">
+Hi👋, I'm Rohit Sai
+</div>
+<div align="center">
+👨‍💻 A Passionate Developer from India
+</div>
 
 ---
 
