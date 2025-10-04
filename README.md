@@ -1,5 +1,5 @@
-# Hi, I'm Rohit Sai Muppana 👋
-### 👨‍💻 Full-Stack Developer | MERN Stack | Frontend & Backend Enthusiast
+# Hi👋, I'm Rohit Sai
+### 👨‍💻 A Passionate Developer from India
 
 ---
 
