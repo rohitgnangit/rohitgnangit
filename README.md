@@ -27,11 +27,11 @@
 
 | Next.js | React.js | Node.js | MongoDB | JavaScript | TailwindCSS | HTML5 | CSS3 | Express | NPM |
 |---------|----------|---------|---------|------------|-------------|-------|------|---------|-----|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50px"/> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50px"/> | 
+| <img src="https://skillicons.dev/icons?i=nextjs" width="50px"/> | <img src="https://skillicons.dev/icons?i=react" width="50px"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="50px"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="50px"/> | <img src="https://skillicons.dev/icons?i=javascript" width="50px"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="50px"/> | <img src="https://skillicons.dev/icons?i=html" width="50px"/> | <img src="https://skillicons.dev/icons?i=css" width="50px"/> | <img src="https://skillicons.dev/icons?i=express" width="50px"/> | <img src="https://skillicons.dev/icons?i=npm" width="50px"/> |
 
 | Java | Vercel | Firebase |
-|------|--------| ---------|
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50px"/> |
+|------|--------|----------|
+| <img src="https://skillicons.dev/icons?i=java" width="50px"/> | <img src="https://skillicons.dev/icons?i=vercel" width="50px"/> | <img src="https://skillicons.dev/icons?i=firebase" width="50px"/> |
 
 ---
 
