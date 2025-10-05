@@ -11,11 +11,11 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rohitsaimuppana/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45px" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:rohitmuppana44@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40px" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="45px" alt="Email"/>
   </a>
 </p>
 
