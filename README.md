@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Rohit Sai  
+# Hi👋, I'm Rohit Sai  
 ### 👨‍💻 A Passionate Developer from India  
 
 </div>
@@ -42,13 +42,6 @@
 ![Rohit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitgnangit&theme=github-compact)
 
 </div>
-
----
-
-## 👀 Visitors  
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rohitgnangit&icon=0&color=0" alt="Visitor Count"/>
-</p>
 
 ---
 
