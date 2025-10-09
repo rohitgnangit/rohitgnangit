@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi👋, I'm Rohit Sai  
+# Hi👋, I'm Rohit Sai
 ### 👨‍💻 A Passionate Developer from India  
 
 </div>
