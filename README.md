@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="45px" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:rohitmuppana44@gmail.com" target="_blank">
+  <a href="mailto:rohitmuppana66@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="45px" alt="Email"/>
   </a>
 </p>
