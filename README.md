@@ -32,13 +32,13 @@
 
 ## 💻 Tech Stack  
 
-| Next.js | React.js | Node.js | MongoDB | JavaScript | TypeScript | TailwindCSS | HTML5 | CSS3 | Express | NPM |
-|---------|----------|---------|---------|------------|------------|-------------|-------|------|---------|-----|
-| <img src="https://skillicons.dev/icons?i=nextjs" width="50px"/> | <img src="https://skillicons.dev/icons?i=react" width="50px"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="50px"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="50px"/> | <img src="https://skillicons.dev/icons?i=javascript" width="50px"/> | <img src="https://skillicons.dev/icons?i=typescript" width="50px"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="50px"/> | <img src="https://skillicons.dev/icons?i=html" width="50px"/> | <img src="https://skillicons.dev/icons?i=css" width="50px"/> | <img src="https://skillicons.dev/icons?i=express" width="50px"/> | <img src="https://skillicons.dev/icons?i=npm" width="50px"/> |
+| Next.js | React.js | Node.js | MongoDB | JavaScript | TypeScript | TailwindCSS | HTML5 | CSS3 | Express |
+|---------|----------|---------|---------|------------|------------|-------------|-------|------|---------|
+| <img src="https://skillicons.dev/icons?i=nextjs" width="50px"/> | <img src="https://skillicons.dev/icons?i=react" width="50px"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="50px"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="50px"/> | <img src="https://skillicons.dev/icons?i=javascript" width="50px"/> | <img src="https://skillicons.dev/icons?i=typescript" width="50px"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="50px"/> | <img src="https://skillicons.dev/icons?i=html" width="50px"/> | <img src="https://skillicons.dev/icons?i=css" width="50px"/> | <img src="https://skillicons.dev/icons?i=express" width="50px"/> |
 
-| Java | Vercel | Firebase |
-|------|--------|----------|
-| <img src="https://skillicons.dev/icons?i=java" width="50px"/> | <img src="https://skillicons.dev/icons?i=vercel" width="50px"/> | <img src="https://skillicons.dev/icons?i=firebase" width="50px"/> |
+| Npm | Java | Vercel | Firebase |
+|-----|------|--------|----------|
+| <img src="https://skillicons.dev/icons?i=npm" width="50px"/>  | <img src="https://skillicons.dev/icons?i=java" width="50px"/> | <img src="https://skillicons.dev/icons?i=vercel" width="50px"/> | <img src="https://skillicons.dev/icons?i=firebase" width="50px"/> |
 
 ---
 
