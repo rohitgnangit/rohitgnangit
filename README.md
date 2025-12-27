@@ -17,15 +17,24 @@
   <a href="mailto:rohitmuppana66@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="45px" alt="Email"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+ <a href="https://leetcode.com/u/rohitgnan/" target="_blank">
+  <img
+    src="https://leetcode.com/static/images/LeetCode_logo_rvs.png"
+    width="45px"
+    alt="LeetCode"
+  />
+</a>
+
 </p>
 
 ---
 
 ## 💻 Tech Stack  
 
-| Next.js | React.js | Node.js | MongoDB | JavaScript | TailwindCSS | HTML5 | CSS3 | Express | NPM |
-|---------|----------|---------|---------|------------|-------------|-------|------|---------|-----|
-| <img src="https://skillicons.dev/icons?i=nextjs" width="50px"/> | <img src="https://skillicons.dev/icons?i=react" width="50px"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="50px"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="50px"/> | <img src="https://skillicons.dev/icons?i=javascript" width="50px"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="50px"/> | <img src="https://skillicons.dev/icons?i=html" width="50px"/> | <img src="https://skillicons.dev/icons?i=css" width="50px"/> | <img src="https://skillicons.dev/icons?i=express" width="50px"/> | <img src="https://skillicons.dev/icons?i=npm" width="50px"/> |
+| Next.js | React.js | Node.js | MongoDB | JavaScript | TypeScript | TailwindCSS | HTML5 | CSS3 | Express | NPM |
+|---------|----------|---------|---------|------------|------------|-------------|-------|------|---------|-----|
+| <img src="https://skillicons.dev/icons?i=nextjs" width="50px"/> | <img src="https://skillicons.dev/icons?i=react" width="50px"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="50px"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="50px"/> | <img src="https://skillicons.dev/icons?i=javascript" width="50px"/> | <img src="https://skillicons.dev/icons?i=typescript" width="50px"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="50px"/> | <img src="https://skillicons.dev/icons?i=html" width="50px"/> | <img src="https://skillicons.dev/icons?i=css" width="50px"/> | <img src="https://skillicons.dev/icons?i=express" width="50px"/> | <img src="https://skillicons.dev/icons?i=npm" width="50px"/> |
 
 | Java | Vercel | Firebase |
 |------|--------|----------|
