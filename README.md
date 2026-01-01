@@ -14,17 +14,17 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="45px" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:rohitmuppana66@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45px" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
- <a href="https://leetcode.com/u/rohitgnan/" target="_blank">
-  <img
+  <a href="https://leetcode.com/u/rohitgnan/" target="_blank">
+    <img
     src="https://leetcode.com/static/images/LeetCode_logo_rvs.png"
     width="45px"
     alt="LeetCode"
-  />
-</a>
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:rohitmuppana66@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45px" alt="Email"/>
+  </a>
 
 </p>
 
